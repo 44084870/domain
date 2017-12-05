@@ -12,4 +12,5 @@
 	<!-- configure here resource to be shared within the domain -->
 	<http:listener-config name="http.0.0.0.0.8081"
 		host="0.0.0.0" port="8081" doc:name="HTTP Listener Configuration" />
+		
 </domain:mule-domain>
